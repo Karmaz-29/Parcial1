@@ -23,3 +23,5 @@ else:
 print('Respuesta: ')
 print('Entre los 3 números, el número mayor es: ')
 print(num_mayor)
+
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
